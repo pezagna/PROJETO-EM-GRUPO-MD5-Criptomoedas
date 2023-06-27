@@ -1,4 +1,4 @@
-** PROJETO EM GRUPO Módulo 5 – Criptomoedas.**
+
 
 ### **PROJETO EM GRUPO Módulo 5 – Criptomoedas**
 
