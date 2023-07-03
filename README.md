@@ -1,4 +1,5 @@
-
+**Softwares utilizados:** Jupyter Notebook, bloco de notas, Microsoft Power BI, Visual Studio Code.
+** Data de finalização:** 02/07/2023
 
 ## **PROJETO EM GRUPO Módulo 5 – Criptomoedas**
 
@@ -18,12 +19,13 @@ uma tendência de queda ou de aumento?;
 
 4. Existe alguma tendência de aumento ou queda dos valores pelo dia da semana?;
 
-5. Qual moeda se mostra mais interessante em relação à valorização pela análise da
+5. Qual moeda se mostra mais interessante em relação à valorização pela análise da série histórica?;
 
-série histórica?;
-
-6. Qual moeda se mostra menos interessante em relação à valorização pela análise da
-
-série histórica?;
+6. Qual moeda se mostra menos interessante em relação à valorização pela análise da série histórica?;
 
 7. Existe correlação entre os valores para todas as criptomoedas?
+
+Além disto, levantar mais duas perguntas e respondê-las da forma que achar mais adequada.
+
+
+Para visualizar o projeto, execute os arquivos da pasta utilizando o Microsoft Power BI ou algum visualizador de PDF.
