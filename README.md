@@ -1,5 +1,6 @@
 **Softwares utilizados:** Jupyter Notebook, bloco de notas, Microsoft Power BI, Visual Studio Code.
-** Data de finalização:** 02/07/2023
+
+**Data de finalização:** 02/07/2023
 
 ## **PROJETO EM GRUPO Módulo 5 – Criptomoedas**
 
