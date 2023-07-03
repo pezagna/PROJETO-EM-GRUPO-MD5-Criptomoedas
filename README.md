@@ -10,9 +10,7 @@ Detalhes do projeto:
 
 ⇨ As perguntas a serem respondidas são:
 
-1. Como se comportaram os valores para todas as criptomoedas? Os valores tiveram
-
-uma tendência de queda ou de aumento?;
+1. Como se comportaram os valores para todas as criptomoedas? Os valores tiveram uma tendência de queda ou de aumento?;
 
 2. Qual os valores médios para todas as criptomoedas?;
 
