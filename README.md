@@ -28,4 +28,4 @@ uma tendência de queda ou de aumento?;
 Além disto, levantar mais duas perguntas e respondê-las da forma que achar mais adequada.
 
 
-Para visualizar o projeto, execute os arquivos da pasta utilizando o Microsoft Power BI ou algum visualizador de PDF.
+### Para visualizar o projeto, execute os arquivos da pasta **"Arquivos com os resultados, PDF e PBIX"** utilizando o  Microsoft Power BI ou algum visualizador de PDF.
